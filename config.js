@@ -1,2 +1,2 @@
 console.log('config.gs');
-console.log('version2') ;
+console.log('version3') ;
